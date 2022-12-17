@@ -12,11 +12,14 @@
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/shoibjadallh#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/shoibjadallh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/shoaib-jadallah#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/shoaib-jadallah#gh-dark-mode-only)
+<a href="https://linkedin.com/in/shoaib-jadallah#gh-dark-mode-only" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<!-- [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/shoaib-jadallah#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/shoaib-jadallah#gh-dark-mode-only) -->
 &nbsp;&nbsp;
 [![instagram](./img/instagram-light.svg)](https://instagram.com/Shoaib_Ja0allah#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/Shoaib_Ja0allah#gh-dark-mode-only)
+<br />
+✉️ You can contact me at: [shoib.jadallah@gmail.com](mailto:shoib.jadallah@gmail.com)
 
 ### Languages and Tools:
 
