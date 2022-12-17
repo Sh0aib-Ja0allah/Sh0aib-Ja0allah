@@ -30,7 +30,9 @@
 <br />
 
 ### Spoken languages:
-Native Arabic and Fluent English <br><br>
+- Arabic : Native.
+- English : Fluent.
+<br><br>
 
 </details>
 
