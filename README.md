@@ -12,7 +12,7 @@
 <a href="https://twitter.com/shoibjadallh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shoaib-jadallah-0a1595230/?originalSubdomain=ps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/Shoaib_Ja0allah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 <br />
-✉️ You can contact me at: [shoib.jadallah@gmail.com](mailto:shoib.jadallah@gmail.com)
+✉️ You can contact me at [S.ja0allah@outlook.com](mailto:S.ja0allah@outlook.com)
 
 ### Languages and Tools:
 
