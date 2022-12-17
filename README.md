@@ -9,17 +9,8 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/shoibjadallh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<!-- [![Twitter](./img/twitter-light.svg)](https://twitter.com/shoibjadallh#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/shoibjadallh#gh-dark-mode-only) -->
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shoaib-jadallah-0a1595230/?originalSubdomain=ps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<!-- [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/shoaib-jadallah#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/shoaib-jadallah#gh-dark-mode-only) -->
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/Shoaib_Ja0allah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<!-- [![instagram](./img/instagram-light.svg)](https://instagram.com/Shoaib_Ja0allah#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/Shoaib_Ja0allah#gh-dark-mode-only) -->
+<a href="https://twitter.com/shoibjadallh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shoaib-jadallah-0a1595230/?originalSubdomain=ps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/Shoaib_Ja0allah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+
 <br />
 ✉️ You can contact me at: [shoib.jadallah@gmail.com](mailto:shoib.jadallah@gmail.com)
 
@@ -35,9 +26,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br />
-### Spoken languages:
 
-  Native Arabic and Fluent English <br><br>
+### Spoken languages:
+Native Arabic and Fluent English <br><br>
+
 </details>
 
 [website]: https://sh0aib-ja0allah.github.io/My-Portfolio/
