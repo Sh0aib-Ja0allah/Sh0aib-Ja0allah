@@ -9,14 +9,14 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/shoibjadallh#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/shoibjadallh#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/shoibjadallh#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/shoibjadallh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/shoaib-jadallah#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shoaib-jadallah#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/shoaib-jadallah#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/shoaib-jadallah#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/Shoaib_Ja0allah#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/Shoaib_Ja0allah#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/Shoaib_Ja0allah#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/Shoaib_Ja0allah#gh-dark-mode-only)
 
 ### Languages and Tools:
 
