@@ -14,7 +14,7 @@
 
 - ✉️ You can contact me at : <a href="mailto:shoib.jadallah@gmail.com" target="_blank" rel="noreferrer">Shoib.jadallah@gmail.com</a>
 
-- 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/My-Portfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
+- 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/reactportfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
 <br />
 
 ### Languages and Tools:
