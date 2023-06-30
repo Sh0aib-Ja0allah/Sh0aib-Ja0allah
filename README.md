@@ -37,6 +37,9 @@
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 
 <br />
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Sh0aib-Ja0allah&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Shoaib Jadallah Languages/Frameworks" width = 400 />
+</p>
 
 ### Spoken languages:
 - Arabic : Native.
@@ -61,7 +64,3 @@
 </p>
 
 <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
-
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Sh0aib-Ja0allah&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Shoaib Jadallah Languages/Frameworks" width = 400 />
-</p>
