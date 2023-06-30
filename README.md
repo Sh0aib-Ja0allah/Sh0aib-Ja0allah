@@ -47,3 +47,5 @@ I'm [Shoaib Jadallah][facebook] .
 [twitter]: https://twitter.com/shoibjadallh
 [facebook]: https://www.facebook.com/profile.php?id=100082226078414
 [let's-go]: https://sh0aib-ja0allah.github.io/My-Portfolio/
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
