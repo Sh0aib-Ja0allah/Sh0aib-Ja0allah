@@ -55,8 +55,8 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" height = 300 width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" height = 300 width = 400 >
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
 
 </p>
 
