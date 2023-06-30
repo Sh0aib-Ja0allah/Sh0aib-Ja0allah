@@ -29,6 +29,7 @@
 <p align = center>
   <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
 </p>
+<br />
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
