@@ -61,3 +61,5 @@
 <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
+
+<a href="https://github.com/Sh0aib-Ja0allah/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Sh0aib-Ja0allah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
