@@ -1,4 +1,5 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi there!, I'm [Shoaib Jadallah][facebook] .
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
+I'm [Shoaib Jadallah][facebook] .
 
 ### I'm a Writer, C.S.Engineer& Front-end Developer.
 
