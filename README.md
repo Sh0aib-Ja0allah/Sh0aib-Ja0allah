@@ -25,6 +25,7 @@
 ### Quick Overview 📈:
 <br />
 <h2 align = center >Views:</h4>
+<br />
 <p align = center>
   <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
 </p>
