@@ -2,11 +2,8 @@
 <br>
 
 <h1>About Me 📌</h1>
-
-I'm [Shoaib Jadallah][facebook] .
-
-### I'm a Writer, C.S.Engineer& Front-end Developer.
-
+## I'm [Shoaib Jadallah][facebook] .
+- I'm a Writer, C.S.Engineer& Front-end Developer.
 - I'm a C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
@@ -17,7 +14,7 @@ I'm [Shoaib Jadallah][facebook] .
 
 - <a href="https://twitter.com/shoibjadallh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp; - <a href="https://www.linkedin.com/in/shoaib-jadallah-0a1595230/?originalSubdomain=ps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp; - <a href="https://www.instagram.com/Shoaib_Ja0allah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp; - <a href="https://www.facebook.com/profile.php?id=100082226078414" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 
-- ✉️ You can contact me at : <a href="mailto:shoib.jadallah@gmail.com" target="_blank" rel="noreferrer">Shoib.jadallah@gmail.com</a>
+- ✉️ You can reach me at : <a href="mailto:shoib.jadallah@gmail.com" target="_blank" rel="noreferrer">Shoib.jadallah@gmail.com</a>
 
 - 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/reactportfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
 <br />
