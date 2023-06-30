@@ -53,3 +53,5 @@
 [let's-go]: https://sh0aib-ja0allah.github.io/My-Portfolio/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
+ <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "AmeerEleyan Contribution" width = 400 >
