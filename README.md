@@ -2,7 +2,7 @@
 <br>
 <hr />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Shoaib+Jadallah.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Shoaib+Jadallah.)
 <h1>About Me 📌</h1>
 
 - I'm a Writer, Full-Stack Developer.
