@@ -62,4 +62,7 @@
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
 
-<a href="https://github.com/Sh0aib-Ja0allah/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Sh0aib-Ja0allah&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align = "center">
+
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=AmeerEleyan&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "AmeerEleyan Languages/Frameworks" width = 400 />
+</p>
