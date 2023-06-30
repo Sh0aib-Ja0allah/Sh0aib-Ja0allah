@@ -29,7 +29,7 @@
 <p align = center>
   <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
 </p>
-<h1></h1>
+<hr />
 <br />
 
 <p align = "center">
