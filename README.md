@@ -6,7 +6,8 @@
 ## I'm a Writer, C.S.Engineer& Front-end Developer
 
 - I'm a C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
-- 🌱 I’m currently learning everything. 🤣
+- I'm a C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Learn more about Front-end& Flutter mobile development.
 - Have a passion to be a Full-Stack Developer.
