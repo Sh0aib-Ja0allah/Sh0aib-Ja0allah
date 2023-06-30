@@ -58,6 +58,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Sh0aib-Ja0allah&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Shoaib Jadallah Languages/Frameworks" width = 400 />
 
-<img src="https://profile-counter.glitch.me/AmeerEleyan/count.svg"></img>
+<img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=ameereleyan&theme=dracula&hide_border=true" alt = "AmeerEleyan Rating" width = 400 >
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
