@@ -3,7 +3,7 @@
 
 <h1>About Me 📌</h1>
 
-## I'm [Shoaib Jadallah][facebook]
+### I'm [Shoaib Jadallah][facebook]
 
 - I'm a Writer, Full-Stack Developer.
 - I'm a C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
