@@ -24,6 +24,7 @@
 
 ### Quick Overview 📈:
 <br />
+### Views: <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
@@ -68,5 +69,3 @@
 [let's-go]: https://sh0aib-ja0allah.github.io/My-Portfolio/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
-<img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
