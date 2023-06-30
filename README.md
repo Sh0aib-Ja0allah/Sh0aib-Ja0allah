@@ -29,7 +29,7 @@
 </p>
 <hr />
 <br />
-### Quick Overview 📈:
+<h3>Quick Overview 📈:</h3>
 <br />
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
