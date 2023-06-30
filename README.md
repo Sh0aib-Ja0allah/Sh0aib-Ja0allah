@@ -22,6 +22,13 @@
 - 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/reactportfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
 <br />
 
+<h2 align="center">Quick Overview 📈</h2>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
+</p>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -61,11 +68,5 @@
 [let's-go]: https://sh0aib-ja0allah.github.io/My-Portfolio/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
-
-</p>
 
 <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
