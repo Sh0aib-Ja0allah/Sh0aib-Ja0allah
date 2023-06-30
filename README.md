@@ -24,6 +24,7 @@
 
 ### Quick Overview 📈:
 <br />
+<hr />
 <h2 align = center >Views:</h4>
 <br />
 <p align = center>
