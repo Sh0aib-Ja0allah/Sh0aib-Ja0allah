@@ -3,7 +3,7 @@
 <hr />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Shoaib+Jadallah.)
-<h1><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> About Me 📌</h1>
+<h1><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> - About Me 📌</h1>
 
 - I'm a Writer, Full-Stack Developer.
 - A C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
