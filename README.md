@@ -8,12 +8,15 @@
 <img align="right" src="https://github.com/AnasATaleeb/AnasATaleeb/assets/102483320/72d86498-3898-418d-b1b4-b3dfc9088f55" width = 250px>
 
 <br />
+
+
 - I'm a Writer, Full-Stack Developer.
 - A C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2023 Goals: Learn more about Front-end& Flutter mobile development.
 - Have a passion to be a Full-Stack Developer.
+
 <br />
 <hr />
 
