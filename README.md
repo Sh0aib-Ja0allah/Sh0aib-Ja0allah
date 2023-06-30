@@ -22,7 +22,7 @@
 - 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/reactportfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
 <br />
 
-<h2 align="center">Quick Overview 📈</h2>
+### Quick Overview 📈:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
