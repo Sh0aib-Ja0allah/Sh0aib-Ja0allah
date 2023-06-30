@@ -62,7 +62,7 @@
 
 <br />
 <hr />
-### Spoken languages:
+<h3>Spoken languages:</h3>
 - Arabic : Native.
 - English : Fluent.
 <br><br>
