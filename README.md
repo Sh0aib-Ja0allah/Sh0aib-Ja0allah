@@ -2,7 +2,7 @@
 <br>
 <hr />
 
-# I'm [Shoaib Jadallah][facebook]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world%2C+I'm+Shoaib+Jadallah.)](https://git.io/typing-svg)
 
 <h1>About Me 📌</h1>
 
