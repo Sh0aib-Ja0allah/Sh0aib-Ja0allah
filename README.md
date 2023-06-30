@@ -21,9 +21,6 @@
 
 - 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/reactportfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
 <br />
-
-### Quick Overview 📈:
-<br />
 <hr />
 <h2 align = center >Views:</h4>
 <br />
@@ -32,7 +29,8 @@
 </p>
 <hr />
 <br />
-
+### Quick Overview 📈:
+<br />
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=dracula&hide_border=true" alt = "Shoaib Jadallah Rating" width = 400 >
