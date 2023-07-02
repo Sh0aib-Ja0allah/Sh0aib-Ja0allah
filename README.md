@@ -29,7 +29,7 @@
 - 😻 Check out my portfolio : <a href="https://sh0aib-ja0allah.github.io/reactportfolio/" target="_blank" rel="noreferrer">Let's-Go</a>
 <br />
 <hr />
-<h1 align = center >Views:</h1>
+<h2 align = center >Views:</h2>
 <br />
 <p align = center>
   <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg"></img>
