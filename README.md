@@ -20,7 +20,7 @@
 <br />
 <hr />
 
-### Connect with me:
+# Connect with me:
 
 - <a href="https://twitter.com/shoibjadallh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp; - <a href="https://www.linkedin.com/in/shoaib-jadallah-0a1595230/?originalSubdomain=ps" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp; - <a href="https://www.instagram.com/Shoaib_Ja0allah/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp; - <a href="https://www.facebook.com/profile.php?id=100082226078414" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 
@@ -45,7 +45,7 @@
 
 <hr />
 
-### Languages and Tools:
+# Languages and Tools:
 <br />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -69,7 +69,7 @@
 
 <br />
 <hr />
-<h3>Spoken languages:</h3>
+<h1>Spoken languages:</h1>
 
 - Arabic : Native.
 - English : Fluent.
