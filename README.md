@@ -10,12 +10,10 @@
 <br />
 
 
-- I'm a Writer, Full-Stack Developer.
-- A C.S.E (Computer Systems Engineering) student at Arab American University Palestine.
-- 🌱 I’m currently learning everything.
+- A C.S.E (Computer Systems Engineer) graduate from Arab American University Palestine.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Learn more about Front-end& Flutter mobile development.  
-- Have a passion to be a senior Full-Stack Developer.
+- 🥅 2023 Goals: Learn more about Front-end.  
+- Have a passion for being a senior Full-Stack Developer.
 
 <br />
 <hr />
@@ -68,20 +66,14 @@
 </p>
 
 <br />
-<hr />
-<h1>Spoken languages:</h1>
-
-- Arabic : Native.
-- English : Fluent.
-<br><br>
 
 </details>
 
 [website]: https://sh0aib-ja0allah.github.io/My-Portfolio/
 [instagram]: https://www.instagram.com/Shoaib_Ja0allah/
 [linkedin]: https://www.linkedin.com/in/shoaib-jadallah-0a1595230/?originalSubdomain=ps
-[twitter]: https://twitter.com/shoibjadallh
-[facebook]: https://www.facebook.com/profile.php?id=100082226078414
+[Twitter]: https://twitter.com/shoibjadallh
+[Facebook]: https://www.facebook.com/profile.php?id=100082226078414
 [let's-go]: https://sh0aib-ja0allah.github.io/My-Portfolio/
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
