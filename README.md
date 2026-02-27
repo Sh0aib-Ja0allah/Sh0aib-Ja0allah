@@ -72,14 +72,14 @@ Computer Systems Engineer from Arab American University, Palestine, with **3+ ye
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=1f6feb&amp;icon_color=1f6feb&amp;text_color=c9d1d9" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=1f6feb&amp;fire=1f6feb&amp;currStreakLabel=1f6feb" alt="GitHub Streak" height="170" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sh0aib-Ja0allah&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9&icon_color=1f6feb" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sh0aib-Ja0allah&amp;show_icons=true&amp;count_private=true&amp;locale=en&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=1f6feb&amp;text_color=c9d1d9&amp;icon_color=1f6feb" alt="Top Languages" width="400" />
 </div>
 
 ---
