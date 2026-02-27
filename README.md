@@ -9,7 +9,6 @@
 </div>
 
 <div align="center">
-<br />
 <a href="https://sh0aib-ja0allah.github.io/reactportfolio/">
 <img src="https://img.shields.io/badge/%F0%9F%94%97%20Visit%20My%20Portfolio-161b22?style=flat-square&labelColor=161b22" alt="Portfolio" height="35" />
 </a>
