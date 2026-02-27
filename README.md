@@ -69,10 +69,4 @@ Computer Systems Engineer from Arab American University, Palestine, with **3+ ye
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg" alt="Profile Views" />
-  <br />
-  <sub>Profile Views</sub>
-</div>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer)
