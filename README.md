@@ -69,21 +69,6 @@ Computer Systems Engineer from Arab American University, Palestine, with **3+ ye
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh0aib-Ja0allah&amp;count_private=true&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=1f6feb&amp;icon_color=1f6feb&amp;text_color=c9d1d9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sh0aib-Ja0allah&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=1f6feb&amp;fire=1f6feb&amp;currStreakLabel=1f6feb" alt="GitHub Streak" height="170" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sh0aib-Ja0allah&amp;show_icons=true&amp;count_private=true&amp;locale=en&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=1f6feb&amp;text_color=c9d1d9&amp;icon_color=1f6feb" alt="Top Languages" width="400" />
-</div>
-
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Sh0aib-Ja0allah/count.svg" alt="Profile Views" />
   <br />
