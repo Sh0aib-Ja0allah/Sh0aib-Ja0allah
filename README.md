@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=250&section=header&text=Shoaib%20Jadallah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Systems%20Engineer%20%7C%20React%20%26%20React%20Native%20Developer&descSize=18&descAlignY=55&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=250&section=header&text=Shoaib%20Jadallah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Systems%20Engineer%20%7C%20React%20%7C%20React%20Native&descSize=18&descAlignY=55&descColor=8b949e)
 
 <div align="center">
 
