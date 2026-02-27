@@ -20,8 +20,8 @@
 
 Computer Systems Engineer from Arab American University, Palestine, with **3+ years** of professional experience building web and mobile applications. Currently working as a **React Native Developer**, specializing in cross-platform mobile development and modern frontend architectures.
 
-- Currently building enterprise-grade mobile apps at **aba agency**, serving 70-100 employees
-- Previously developed a cross-platform golf social app and admin portal at **Top MENA Talents**
+<!-- - Currently building enterprise-grade mobile apps at **aba agency**, serving 70-100 employees -->
+- Currently developing a cross-platform golf social app and admin portal at **Top MENA Talents**
 - Experienced with full-stack development using **React, React Native (Expo), ASP.NET, and Angular**
 - Passionate about clean architecture, reusable components, and scalable design patterns
 
@@ -65,8 +65,8 @@ Computer Systems Engineer from Arab American University, Palestine, with **3+ ye
 
 | Role | Company | Period |
 |------|---------|--------|
-| React Native Developer | **aba agency** | Sep 2025 - Present |
-| React Native & ReactJS Developer | **Top MENA Talents** | Feb 2025 - Feb 2026 |
+<!-- | React Native Developer | **aba agency** | Sep 2025 - Present | -->
+| React Native & ReactJS Developer | **Top MENA Talents** | Feb 2025 - Present |
 | Front-End ReactJS Developer | **Staffready Mablewood** (Freelance) | Jun 2023 - Feb 2024 |
 | Full-Stack Intern (ASP.NET & Angular) | **IConnect Technologies** | Mar 2023 - Jun 2023 |
 
