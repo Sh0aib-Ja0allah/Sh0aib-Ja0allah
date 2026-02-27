@@ -65,7 +65,6 @@ Computer Systems Engineer from Arab American University, Palestine, with **3+ ye
 
 | Role | Company | Period |
 |------|---------|--------|
-<!-- | React Native Developer | **aba agency** | Sep 2025 - Present | -->
 | React Native & ReactJS Developer | **Top MENA Talents** | Feb 2025 - Present |
 | Front-End ReactJS Developer | **Staffready Mablewood** (Freelance) | Jun 2023 - Feb 2024 |
 | Full-Stack Intern (ASP.NET & Angular) | **IConnect Technologies** | Mar 2023 - Jun 2023 |
